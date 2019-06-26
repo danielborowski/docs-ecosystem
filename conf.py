@@ -6,7 +6,7 @@
 # This file is execfile()d with the current directory set to its containing dir.
 
 import sys
-import os.path
+import os.path 
 import datetime
 
 project_root = os.path.join(os.path.abspath(os.path.dirname(__file__)))
