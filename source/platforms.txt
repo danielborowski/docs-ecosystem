@@ -8,7 +8,7 @@ Amazon Web Services EC2
 .. toctree::
    :maxdepth: 1
 
-   platforms/amazon-ec2
+   platforms/amazon-ec2asa
    tutorial/backup-and-restore-mongodb-on-amazon-ec2
 
 Windows Azure
