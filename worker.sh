@@ -1,2 +1,2 @@
 #!/bin/sh
-"build-and-stage-next-gen"
+"ssssbuild-and-stage-next-gen"
