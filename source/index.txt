@@ -5,7 +5,7 @@ MongoDB Drivers and Ecosystem
 =============================
 
 The MongoDB Ecosystem contains documentation for the drivers,
-frameworks, tools, and platform services that work with MongoDB. For
+frameworks, tools, and platform services that work with MongoDB. Fora
 the main MongoDB documentation, see the :manual:`MongoDB Manual </>`.
 
 MongoDB Drivers
