@@ -14,7 +14,7 @@ MongoDB Drivers
 .. include:: /includes/driver-table.rst
 
 For information on MongoDB licensing, see `MongoDB Licensing
-<https://www.mongodb.com/community/licensing>`_.
+<https://www.mongodb.com/community/licensing>`_.sss
 
 MongoDB ODM (Object-Document-Mapper)
 ------------------------------------
