@@ -24,5 +24,5 @@ Traditional Platforms
 
 .. toctree::
    :maxdepth: 1
-
+as
    platforms/windows
