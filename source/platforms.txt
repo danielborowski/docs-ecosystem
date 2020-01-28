@@ -18,7 +18,7 @@ Windows Azure
    :maxdepth: 1
 
    platforms/windows-azure
-
+ss
 Traditional Platforms
 ---------------------
 
