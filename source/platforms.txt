@@ -6,7 +6,7 @@ Amazon Web Services EC2
 -----------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: asas
 
    platforms/amazon-ec2asaasa
    tutorial/backup-and-restore-mongodb-on-amazon-ec2
