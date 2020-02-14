@@ -1,12 +1,13 @@
 :orphan:
 
 =============================
-MongoDB Drivers and Ecosystem
+Start Developing with MongoDB
 =============================
 
-The MongoDB Ecosystem contains documentation for the drivers,
-frameworks, tools, and platform services that work with MongoDB. For
-the main MongoDB documentation, see the :manual:`MongoDB Manual </>`.
+Connect your application to your database with one of our official libraries.
+
+The following libraries are officially supported by MongoDB. They are actively maintained, support new MongoDB feaures,
+and receive bug fixes, performance enhancements, and security patches.
 
 START!!!
 ---------------
