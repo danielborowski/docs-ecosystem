@@ -11,7 +11,7 @@ the main MongoDB documentation, see the :manual:`MongoDB Manual </>`.
 START!!!
 ---------------
 
-.. include:: /includes/driver-table.rst
+.. include:: /includes/card-table.rst
 
 For information on MongoDB licensing, see `MongoDB Licensing
 <https://www.mongodb.com/community/licensing>`_.
