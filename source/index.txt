@@ -21,4 +21,4 @@ MongoDB ODM (Object-Document-Mapper)
 
 Mongoid is the officially supported ODM (Object-Document-Mapper)
 framework for MongoDB in Ruby. For documentation, see `Mongoid
-Documentation <https://docs.mongodb.com/mongoid/current/>`_.
+Documentation <https://docs.mongodb.com/mongoid/current/>`_. 
