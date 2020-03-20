@@ -27,7 +27,7 @@ Drivers
 For information on MongoDB licensing, see `MongoDB Licensing
 <https://www.mongodb.com/community/licensing>`_.
 
-.. class:: hidden
+.. class:: hidden asa
 
    .. toctree::
       :titlesonly:
