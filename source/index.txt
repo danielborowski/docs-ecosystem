@@ -1,4 +1,4 @@
-:orphan:
+:template: landing
 
 =============================
 Start Developing with MongoDB
@@ -6,8 +6,7 @@ Start Developing with MongoDB
 
 Connect your application to your database with one of our official libraries.
 
-The following libraries are officially supported by MongoDB. They are actively maintained, support new MongoDB feaures,
-and receive bug fixes, performance enhancements, and security patches.
+The following libraries are officially supported by MongoDB. They are actively maintained, support new MongoDB features, and receive bug fixes, performance enhancements, and security patches.
 
 START!!!
 ---------------
