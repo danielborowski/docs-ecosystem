@@ -1,1 +1,1 @@
-"build-and-stage-nextasdasd-gen"
+"build-and-stage-next-gen"
