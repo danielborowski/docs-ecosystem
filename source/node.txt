@@ -6,7 +6,7 @@ MongoDB Node.js Driver
 
 .. default-domain:: mongodb
 
-.. contents:: On this page
+.. contents:: On this pagea
    :local:
    :backlinks: none
    :depth: 1
