@@ -38,7 +38,7 @@ Language Compatibility
 .. include:: /includes/extracts/c-driver-compatibility-matrix-language.rst
 
 .. include:: /includes/language-compatibility-table-c.rst
-
+s
 .. _reference-compatibility-cpp:
 
 C++ Driver Compatibility
