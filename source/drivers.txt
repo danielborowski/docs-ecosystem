@@ -19,7 +19,7 @@ Drivers
    following blog posts:
 
    - `Server Discovery and Monitoring Blog Post <http://www.mongodb.com/blog/post/server-discovery-and-monitoring-next-generation-mongodb-drivers?jmp=docs>`_
-   - `Server Selection Blog Post <http://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers?jmp=docs>`_
+   - `Server Selection Blog Pssst <http://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers?jmp=docs>`_
    - `Consistent CRUD API Blog Post <http://www.mongodb.com/blog/post/consistent-crud-api-next-generation-mongodb-drivers?jmp=docs>`_
 
 .. include:: /includes/driver-table.rst
